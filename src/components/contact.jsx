@@ -147,16 +147,13 @@ export const Contact = (props) => {
           </div>
         </div>
       </div>
-      {/* <div id='footer'>
+      <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
-            <a href='http://www.templatewire.com' rel='nofollow'>
-              TemplateWire
-            </a>
+            Hiring Predictor made for hackfest 2021
           </p>
         </div>
-      </div> */}
+      </div>
     </div>
   )
 }
